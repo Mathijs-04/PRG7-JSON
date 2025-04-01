@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "David Lloyd Rotterdam Centrum",
+    "longitude": 4.4777,
+    "latitude": 51.9230
+  },
+  {
+    "id": 2,
+    "name": "David Lloyd Rotterdam Blijdorp",
+    "longitude": 4.4486,
+    "latitude": 51.9239
+  },
+  {
+    "id": 3,
+    "name": "David Lloyd Capelle",
+    "longitude": 4.5775,
+    "latitude": 51.9300
+  },
+  {
+    "id": 4,
+    "name": "Basic-Fit Rotterdam Delftseplein 24/7",
+    "longitude": 4.4735,
+    "latitude": 51.9244
+  },
+  {
+    "id": 5,
+    "name": "Basic-Fit Rotterdam Lijnbaan 24/7",
+    "longitude": 4.4770,
+    "latitude": 51.9225
+  },
+  {
+    "id": 6,
+    "name": "Basic-Fit Rotterdam Westzeedijk",
+    "longitude": 4.4645,
+    "latitude": 51.9082
+  },
+  {
+    "id": 7,
+    "name": "Basic-Fit Rotterdam Zuidplein",
+    "longitude": 4.4860,
+    "latitude": 51.8895
+  },
+  {
+    "id": 8,
+    "name": "Basic-Fit Rotterdam Slinge",
+    "longitude": 4.4665,
+    "latitude": 51.8770
+  },
+  {
+    "id": 9,
+    "name": "Basic-Fit Rotterdam Korte Lijnbaan",
+    "longitude": 4.4790,
+    "latitude": 51.9220
+  },
+  {
+    "id": 10,
+    "name": "Basic-Fit Rotterdam Hoogstraat",
+    "longitude": 4.4900,
+    "latitude": 51.9225
+  },
+  {
+    "id": 11,
+    "name": "SportCity Rotterdam Ceintuurbaan",
+    "longitude": 4.4820,
+    "latitude": 51.9480
+  },
+  {
+    "id": 12,
+    "name": "SportCity Rotterdam Lijnbaan",
+    "longitude": 4.4780,
+    "latitude": 51.9220
+  },
+  {
+    "id": 13,
+    "name": "SportCity Rotterdam Zuidplein",
+    "longitude": 4.4890,
+    "latitude": 51.8890
+  },
+  {
+    "id": 14,
+    "name": "SportCity Rotterdam De Kuip",
+    "longitude": 4.5230,
+    "latitude": 51.8930
+  },
+  {
+    "id": 15,
+    "name": "SportCity Rotterdam Kralingen",
+    "longitude": 4.5190,
+    "latitude": 51.9240
+  },
+  {
+    "id": 16,
+    "name": "SportCity Rotterdam Noord",
+    "longitude": 4.4800,
+    "latitude": 51.9390
+  },
+  {
+    "id": 17,
+    "name": "SportCity Rotterdam Schiebroek",
+    "longitude": 4.4785,
+    "latitude": 51.9600
+  },
+  {
+    "id": 18,
+    "name": "SportCity Rotterdam Ommoord",
+    "longitude": 4.5510,
+    "latitude": 51.9720
+  },
+  {
+    "id": 19,
+    "name": "SportCity Rotterdam Alexander",
+    "longitude": 4.5250,
+    "latitude": 51.9620
+  },
+  {
+    "id": 20,
+    "name": "SportCity Rotterdam Hillegersberg",
+    "longitude": 4.4920,
+    "latitude": 51.9470
+  },
+  {
+    "id": 21,
+    "name": "The Jim Fitness",
+    "longitude": 4.4815,
+    "latitude": 51.8920
+  },
+  {
+    "id": 22,
+    "name": "CrossFit RTM",
+    "longitude": 4.4970,
+    "latitude": 51.9235
+  },
+  {
+    "id": 23,
+    "name": "MyLife Rotterdam Terbregge",
+    "longitude": 4.5200,
+    "latitude": 51.9540
+  },
+  {
+    "id": 24,
+    "name": "Sportingclub de Uitweg",
+    "longitude": 4.4930,
+    "latitude": 51.9490
+  },
+  {
+    "id": 25,
+    "name": "Oosterbaan Gym Rotterdam",
+    "longitude": 4.5290,
+    "latitude": 51.8925
+  },
+  {
+    "id": 26,
+    "name": "Monk Bouldergym Rotterdam",
+    "longitude": 4.4825,
+    "latitude": 51.9485
+  },
+  {
+    "id": 27,
+    "name": "Sporthal Schuttersveld",
+    "longitude": 4.5030,
+    "latitude": 51.9230
+  },
+  {
+    "id": 28,
+    "name": "Recreatiecentrum Oostervant",
+    "longitude": 4.4560,
+    "latitude": 51.9160
+  },
+  {
+    "id": 29,
+    "name": "CrossFit Blijdorp",
+    "longitude": 4.4565,
+    "latitude": 51.9270
+  },
+  {
+    "id": 30,
+    "name": "A-Sport-Life",
+    "longitude": 4.4920,
+    "latitude": 51.9930
+  },
+]
