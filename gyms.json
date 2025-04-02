@@ -120,477 +120,519 @@
     "latitude": 51.942345
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "CrossFit Blijdorp",
     "longitude": 4.453829,
     "latitude": 51.930192
   },
   {
-    "id": 24,
+    "id": 22,
     "name": "Anytime Fitness Rotterdam Blaak",
     "longitude": 4.487562,
     "latitude": 51.916734
   },
   {
-    "id": 25,
+    "id": 23,
     "name": "Aspria Arts & Sports Rotterdam",
     "longitude": 4.472839,
     "latitude": 51.907465
   },
   {
-    "id": 26,
+    "id": 24,
     "name": "ProFitness Rotterdam Noord",
     "longitude": 4.463829,
     "latitude": 51.934562
   },
   {
-    "id": 27,
+    "id": 25,
     "name": "The Gym Rotterdam",
     "longitude": 4.493827,
     "latitude": 51.921934
   },
   {
-    "id": 28,
+    "id": 26,
     "name": "Fitness Club Maashaven",
     "longitude": 4.508172,
     "latitude": 51.899562
   },
   {
-    "id": 29,
+    "id": 27,
     "name": "Powerhouse Gym Schiedam",
     "longitude": 4.398172,
     "latitude": 51.919562
   },
   {
-    "id": 30,
+    "id": 28,
     "name": "CrossFit Schiedam",
     "longitude": 4.401928,
     "latitude": 51.925672
   },
   {
-    "id": 31,
+    "id": 29,
     "name": "Basic-Fit Schiedam Centrum",
     "longitude": 4.397263,
     "latitude": 51.917465
   },
   {
-    "id": 32,
+    "id": 30,
     "name": "SportCity Spijkenisse",
     "longitude": 4.326172,
     "latitude": 51.847465
   },
   {
-    "id": 33,
+    "id": 31,
     "name": "TrainMore Kralingen",
     "longitude": 4.509837,
     "latitude": 51.928172
   },
   {
-    "id": 34,
+    "id": 32,
     "name": "Iron House Rotterdam",
     "longitude": 4.502937,
     "latitude": 51.918475
   },
   {
-    "id": 35,
+    "id": 33,
     "name": "Body Factory Rotterdam",
     "longitude": 4.456728,
     "latitude": 51.903847
   },
   {
-    "id": 39,
+    "id": 34,
     "name": "CrossFit Hoogvliet",
     "longitude": 4.356728,
     "latitude": 51.865672
   },
   {
-    "id": 40,
+    "id": 35,
     "name": "SportCity Schiedam",
     "longitude": 4.392839,
     "latitude": 51.924562
   },
   {
-    "id": 41,
+    "id": 36,
     "name": "Basic-Fit Spijkenisse Centrum",
     "longitude": 4.328172,
     "latitude": 51.846728
   },
   {
-    "id": 42,
+    "id": 37,
     "name": "Fitness Factory Schiedam",
     "longitude": 4.402839,
     "latitude": 51.918475
   },
   {
-    "id": 43,
+    "id": 38,
     "name": "Iron Pit Gym Rotterdam",
     "longitude": 4.482937,
     "latitude": 51.908475
   },
   {
-    "id": 44,
+    "id": 39,
     "name": "Basic-Fit Schiedam Kethel",
     "longitude": 4.372839,
     "latitude": 51.932839
   },
   {
-    "id": 45,
+    "id": 40,
     "name": "Fitness Hoogvliet XL",
     "longitude": 4.352839,
     "latitude": 51.862839
   },
   {
-    "id": 46,
+    "id": 41,
     "name": "Basic-Fit Rotterdam Prins Alexander",
     "longitude": 4.552839,
     "latitude": 51.952839
   },
   {
-    "id": 47,
+    "id": 42,
     "name": "Power Gym Spijkenisse",
     "longitude": 4.322839,
     "latitude": 51.848475
   },
   {
-    "id": 48,
+    "id": 43,
     "name": "Basic-Fit Rotterdam Schiekade",
     "longitude": 4.472839,
     "latitude": 51.922839
   },
   {
-    "id": 49,
+    "id": 44,
     "name": "Fitness Plaza Schiedam",
     "longitude": 4.392839,
     "latitude": 51.918475
   },
   {
-    "id": 50,
+    "id": 45,
     "name": "Basic-Fit Rotterdam Oostplein",
     "longitude": 4.492839,
     "latitude": 51.922839
   },
   {
-    "id": 51,
+    "id": 46,
     "name": "CrossFit Spijkenisse",
     "longitude": 4.322839,
     "latitude": 51.845672
   },
   {
-    "id": 52,
+    "id": 47,
     "name": "Basic-Fit Rotterdam Wilhelminapier",
     "longitude": 4.492839,
     "latitude": 51.902839
   },
   {
-    "id": 53,
+    "id": 48,
     "name": "Basic-Fit Schiedam Groenoord",
     "longitude": 4.382839,
     "latitude": 51.922839
   },
   {
-    "id": 54,
+    "id": 49,
     "name": "Basic-Fit Rotterdam Marconiplein",
     "longitude": 4.442839,
     "latitude": 51.912839
   },
   {
-    "id": 55,
+    "id": 50,
     "name": "Basic-Fit Spijkenisse Vogelenzang",
     "longitude": 4.332839,
     "latitude": 51.842839
   },
   {
-    "id": 56,
+    "id": 51,
     "name": "Basic-Fit Rotterdam Schouwburgplein",
     "longitude": 4.472839,
     "latitude": 51.918475
   },
   {
-    "id": 57,
+    "id": 52,
     "name": "Basic-Fit Hoogvliet Zalmplaat",
     "longitude": 4.362839,
     "latitude": 51.862839
   },
   {
-    "id": 58,
+    "id": 53,
     "name": "Basic-Fit Schiedam Parkweg",
     "longitude": 4.382839,
     "latitude": 51.918475
   },
   {
-    "id": 59,
+    "id": 54,
     "name": "Basic-Fit Rotterdam Beurs",
     "longitude": 4.482839,
     "latitude": 51.918475
   },
   {
-    "id": 60,
+    "id": 55,
     "name": "Basic-Fit Spijkenisse Schenkel",
     "longitude": 4.332839,
     "latitude": 51.848475
   },
   {
-    "id": 61,
+    "id": 56,
     "name": "Basic-Fit Rotterdam Coolhaven",
     "longitude": 4.462839,
     "latitude": 51.908475
   },
   {
-    "id": 62,
+    "id": 57,
     "name": "Basic-Fit Hoogvliet Middenweg",
     "longitude": 4.352839,
     "latitude": 51.862839
   },
   {
-    "id": 63,
+    "id": 58,
     "name": "Basic-Fit Schiedam Vlaardingweg",
     "longitude": 4.372839,
     "latitude": 51.922839
   },
   {
-    "id": 64,
+    "id": 59,
     "name": "Basic-Fit Rotterdam Katendrecht",
     "longitude": 4.492839,
     "latitude": 51.902839
   },
   {
-    "id": 65,
+    "id": 60,
     "name": "Basic-Fit Spijkenisse Groene Kruisweg",
     "longitude": 4.332839,
     "latitude": 51.842839
   },
   {
-    "id": 66,
+    "id": 61,
     "name": "Basic-Fit Rotterdam Afrikaanderplein",
     "longitude": 4.492839,
     "latitude": 51.898475
   },
   {
-    "id": 67,
+    "id": 62,
     "name": "Basic-Fit Schiedam Station",
     "longitude": 4.392839,
     "latitude": 51.918475
   },
   {
-    "id": 68,
+    "id": 63,
     "name": "Fitness Masters Schiedam",
     "longitude": 4.392839,
     "latitude": 51.922839
   },
   {
-    "id": 69,
+    "id": 64,
     "name": "Fitness World Schiedam",
     "longitude": 4.402839,
     "latitude": 51.918475
   },
   {
-    "id": 70,
+    "id": 65,
     "name": "Fitness Palace Schiedam",
     "longitude": 4.392839,
     "latitude": 51.918475
   },
   {
-    "id": 71,
+    "id": 66,
     "name": "Fitness Point Spijkenisse",
     "longitude": 4.322839,
     "latitude": 51.842839
   },
   {
-    "id": 72,
+    "id": 67,
     "name": "Gym Nation Spijkenisse",
     "longitude": 4.322839,
     "latitude": 51.842839
   },
   {
-    "id": 73,
+    "id": 68,
     "name": "Gym Unlimited Rotterdam",
     "longitude": 4.492837,
     "latitude": 51.907465
   },
   {
-    "id": 74,
+    "id": 69,
     "name": "Gym Rotterdam Noord",
     "longitude": 4.472839,
     "latitude": 51.936728
   },
   {
-    "id": 75,
+    "id": 70,
     "name": "Gym050 Rotterdam",
     "longitude": 4.502839,
     "latitude": 51.912839
   },
   {
-    "id": 76,
+    "id": 71,
     "name": "Gym4All Rotterdam",
     "longitude": 4.492839,
     "latitude": 51.902839
   },
   {
-    "id": 77,
+    "id": 72,
     "name": "GymXL Rotterdam",
     "longitude": 4.502839,
     "latitude": 51.922839
   },
   {
-    "id": 78,
+    "id": 73,
     "name": "GymFlex Rotterdam",
     "longitude": 4.502839,
     "latitude": 51.912839
   },
   {
-    "id": 79,
+    "id": 74,
     "name": "Iron Core Rotterdam",
     "longitude": 4.492839,
     "latitude": 51.922839
   },
   {
-    "id": 80,
+    "id": 75,
     "name": "Iron Health Rotterdam",
     "longitude": 4.482839,
     "latitude": 51.912839
   },
   {
-    "id": 81,
+    "id": 76,
     "name": "PowerFit Rotterdam",
     "longitude": 4.482839,
     "latitude": 51.922839
   },
   {
-    "id": 82,
+    "id": 77,
     "name": "GymX Rotterdam",
     "longitude": 4.502839,
     "latitude": 51.922839
   },
   {
-    "id": 83,
+    "id": 78,
     "name": "Fitness Hub Schiedam",
     "longitude": 4.392839,
     "latitude": 51.914562
   },
   {
-    "id": 84,
+    "id": 79,
     "name": "Fitness Point Schiedam",
     "longitude": 4.402839,
     "latitude": 51.922839
   },
   {
-    "id": 85,
+    "id": 80,
     "name": "Sportclub West Rotterdam",
     "longitude": 4.441237,
     "latitude": 51.905672
   },
   {
-    "id": 86,
+    "id": 81,
     "name": "Rotterdam Sport Support",
     "longitude": 4.517263,
     "latitude": 51.904562
   },
   {
-    "id": 87,
+    "id": 82,
     "name": "Healthclub BodyStyle Rotterdam",
     "longitude": 4.493847,
     "latitude": 51.912345
   },
   {
-    "id": 88,
+    "id": 83,
     "name": "Fitland Rotterdam Zuid",
     "longitude": 4.501928,
     "latitude": 51.894562
   },
   {
-    "id": 89,
+    "id": 84,
     "name": "A-Sport-Life Rotterdam",
     "longitude": 4.489237,
     "latitude": 51.987654
   },
   {
-    "id": 90,
+    "id": 85,
     "name": "Oosterbaan Gym Rotterdam",
     "longitude": 4.524389,
     "latitude": 51.891456
   },
   {
-    "id": 91,
+    "id": 86,
     "name": "Sportingclub de Uitweg",
     "longitude": 4.491023,
     "latitude": 51.944567
   },
   {
-    "id": 92,
+    "id": 87,
     "name": "Recreatiecentrum Oostervant",
     "longitude": 4.452189,
     "latitude": 51.913456
   },
   {
-    "id": 93,
+    "id": 88,
     "name": "Fitness First Rotterdam",
     "longitude": 4.473829,
     "latitude": 51.914562
   },
   {
-    "id": 94,
+    "id": 89,
     "name": "Fitness Club Maashaven",
     "longitude": 4.508172,
     "latitude": 51.899562
   },
   {
-    "id": 95,
+    "id": 90,
     "name": "Gym Rotterdam Zuid",
     "longitude": 4.492839,
     "latitude": 51.892839
   },
   {
-    "id": 96,
+    "id": 91,
     "name": "Gym Rotterdam Oost",
     "longitude": 4.522839,
     "latitude": 51.932839
   },
   {
-    "id": 97,
+    "id": 92,
     "name": "Gym Rotterdam West",
     "longitude": 4.442839,
     "latitude": 51.902839
   },
   {
-    "id": 98,
+    "id": 93,
     "name": "Gym Rotterdam Centrum",
     "longitude": 4.482839,
     "latitude": 51.918475
   },
   {
-    "id": 99,
+    "id": 94,
     "name": "FitZone Vlaardingen",
-    "longitude": 4.358172,
-    "latitude": 51.917465
+    "longitude":  4.34180334051143,
+    "latitude": 51.910048601925936
+  },
+  {
+    "id": 95,
+    "name": "Vlaardingen Fitness Center",
+    "longitude": 4.340000,
+    "latitude": 51.911000
+  },
+  {
+    "id": 96,
+    "name": "Vlaardingen Health Club",
+    "longitude": 4.342500,
+    "latitude": 51.912500
+  },
+  {
+    "id": 97,
+    "name": "Pernis Fitness Center",
+    "longitude": 4.3898204780310115,
+    "latitude": 51.88831245104995
+  },
+  {
+    "id": 98,
+    "name": "Pernis Gym",
+    "longitude": 4.390000,
+    "latitude": 51.889000
+  },
+  {
+    "id": 99,
+    "name": "Rhoon Gym",
+    "longitude": 4.430806686499712,
+    "latitude": 51.857557960215175
   },
   {
     "id": 100,
-    "name": "Pernis Fitness Center",
-    "longitude": 4.487263,
-    "latitude": 51.883456
+    "name": "Rhoon Fitness Studio",
+    "longitude": 4.431500,
+    "latitude": 51.858000
   },
   {
     "id": 101,
-    "name": "Rhoon Gym",
-    "longitude": 4.553172,
-    "latitude": 51.867839
+    "name": "Poortugaal Fitness Hub",
+    "longitude": 4.39466623864585,
+    "latitude": 51.85746553656106
   },
   {
     "id": 102,
-    "name": "Poortugaal Fitness Hub",
-    "longitude": 4.558172,
-    "latitude": 51.867839
+    "name": "Poortugaal Gym",
+    "longitude": 4.395000,
+    "latitude": 51.858000
   },
   {
     "id": 103,
     "name": "Waalhaven Workout",
-    "longitude": 4.500000,
-    "latitude": 51.900000
+    "longitude": 4.428805533790671,
+    "latitude": 51.8850383464865
   },
   {
     "id": 104,
+    "name": "Waalhaven Fitness Center",
+    "longitude": 4.429000,
+    "latitude": 51.886000
+  },
+  {
+    "id": 105,
     "name": "Overschie Fitness Studio",
-    "longitude": 4.500000,
-    "latitude": 51.950000
+    "longitude": 4.426372538041239,
+    "latitude": 51.93463771736995
+  },
+  {
+    "id": 106,
+    "name": "Overschie Gym",
+    "longitude": 4.427000,
+    "latitude": 51.935000
   }
 ]
