@@ -1018,5 +1018,359 @@
     "name": "Basic-Fit Oss Nelson Mandelaboulevard",
     "latitude": 51.7667,
     "longitude": 5.5167
+  },
+    {
+    "id": 171,
+    "name": "Basic-Fit Papendrecht Burg. Keijzerweg",
+    "latitude": 51.8325,
+    "longitude": 4.6875
+  },
+  {
+    "id": 172,
+    "name": "Basic-Fit Purmerend Grotenhuysweg",
+    "latitude": 52.505,
+    "longitude": 4.95
+  },
+  {
+    "id": 173,
+    "name": "Basic-Fit Purmerend Willem Eggertstraat",
+    "latitude": 52.505,
+    "longitude": 4.95
+  },
+  {
+    "id": 174,
+    "name": "Basic-Fit Ridderkerk Gieterijstraat",
+    "latitude": 51.8725,
+    "longitude": 4.6028
+  },
+  {
+    "id": 175,
+    "name": "Basic-Fit Rijswijk Bogaardplein",
+    "latitude": 52.0364,
+    "longitude": 4.3253
+  },
+  {
+    "id": 176,
+    "name": "Basic-Fit Roermond Oranjelaan",
+    "latitude": 51.1942,
+    "longitude": 5.9875
+  },
+  {
+    "id": 177,
+    "name": "Basic-Fit Roosendaal De Stok",
+    "latitude": 51.5333,
+    "longitude": 4.4667
+  },
+  {
+    "id": 178,
+    "name": "Basic-Fit Roosendaal t Zand",
+    "latitude": 51.5333,
+    "longitude": 4.4667
+  },
+  {
+    "id": 179,
+    "name": "Basic-Fit Rosmalen Groote Vlietlaan",
+    "latitude": 51.7167,
+    "longitude": 5.3667
+  },
+  {
+    "id": 180,
+    "name": "Basic-Fit Rotterdam 1e Jerichostraat",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 181,
+    "name": "Basic-Fit Rotterdam Delftseplein",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 182,
+    "name": "Basic-Fit Rotterdam Dorpslaan",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 183,
+    "name": "Basic-Fit Rotterdam IJsselmonde Dwarsdijk",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 184,
+    "name": "Basic-Fit Rotterdam Jan Ligthartstraat",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 185,
+    "name": "Basic-Fit Rotterdam Kralingseweg",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 186,
+    "name": "Basic-Fit Rotterdam Lijnbaan",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 187,
+    "name": "Basic-Fit Rotterdam Metaalhof",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 188,
+    "name": "Basic-Fit Rotterdam Metaalhof Ladies",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 189,
+    "name": "Basic-Fit Rotterdam Plompertstraat",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 190,
+    "name": "Basic-Fit Rotterdam Rijksboom",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 191,
+    "name": "Basic-Fit Rotterdam Westzeedijk",
+    "latitude": 51.9167,
+    "longitude": 4.4833
+  },
+  {
+    "id": 192,
+    "name": "Basic-Fit Schagen Groeneweg",
+    "latitude": 52.7875,
+    "longitude": 4.7997
+  },
+  {
+    "id": 193,
+    "name": "Basic-Fit Schiedam De Brauwweg",
+    "latitude": 51.9167,
+    "longitude": 4.4
+  },
+  {
+    "id": 194,
+    "name": "Basic-Fit Schiedam Prinses Beatrixlaan",
+    "latitude": 51.9167,
+    "longitude": 4.4
+  },
+  {
+    "id": 195,
+    "name": "Basic-Fit Schijndel Avantilaan",
+    "latitude": 51.6167,
+    "longitude": 5.4333
+  },
+  {
+    "id": 196,
+    "name": "Basic-Fit Scheveningen Gevers Deynootweg",
+    "latitude": 52.1,
+    "longitude": 4.2833
+  },
+  {
+    "id": 197,
+    "name": "Basic-Fit Sint Oedenrode Bremhorst",
+    "latitude": 51.5667,
+    "longitude": 5.4667
+  },
+  {
+    "id": 198,
+    "name": "Basic-Fit Sittard Limbrichterweg",
+    "latitude": 50.9983,
+    "longitude": 5.8694
+  },
+  {
+    "id": 199,
+    "name": "Basic-Fit Soest Nieuwegracht",
+    "latitude": 52.1667,
+    "longitude": 5.2833
+  },
+  {
+    "id": 200,
+    "name": "Basic-Fit Spijkenisse A.M. de Jongstraat",
+    "latitude": 51.85,
+    "longitude": 4.3333
+  },
+  {
+    "id": 201,
+    "name": "Basic-Fit Terneuzen Axelsestraat",
+    "latitude": 51.3333,
+    "longitude": 3.8333
+  },
+  {
+    "id": 202,
+    "name": "Basic-Fit Tilburg Artemisstraat",
+    "latitude": 51.55,
+    "longitude": 5.0833
+  },
+  {
+    "id": 203,
+    "name": "Basic-Fit Tilburg Heuvel",
+    "latitude": 51.55,
+    "longitude": 5.0833
+  },
+  {
+    "id": 204,
+    "name": "Basic-Fit Tilburg Ringbaan-Noord",
+    "latitude": 51.55,
+    "longitude": 5.0833
+  },
+  {
+    "id": 205,
+    "name": "Basic-Fit Tilburg Spaubeekstraat",
+    "latitude": 51.55,
+    "longitude": 5.0833
+  },
+  {
+    "id": 206,
+    "name": "Basic-Fit Tilburg Wagnerplein",
+    "latitude": 51.55,
+    "longitude": 5.0833
+  },
+  {
+    "id": 207,
+    "name": "Basic-Fit Utrecht Europaplein",
+    "latitude": 52.0833,
+    "longitude": 5.1167
+  },
+  {
+    "id": 208,
+    "name": "Basic-Fit Utrecht Franciscusdreef",
+    "latitude": 52.0833,
+    "longitude": 5.1167
+  },
+  {
+    "id": 209,
+    "name": "Basic-Fit Utrecht Herculesplein",
+    "latitude": 52.0833,
+    "longitude": 5.1167
+  },
+  {
+    "id": 210,
+    "name": "Basic-Fit Utrecht Middenwetering",
+    "latitude": 52.0833,
+    "longitude": 5.1167
+  },
+  {
+    "id": 211,
+    "name": "Basic-Fit Utrecht Stationsplein",
+    "latitude": 52.0833,
+    "longitude": 5.1167
+  },
+  {
+    "id": 212,
+    "name": "Basic-Fit Utrecht Van Heuven Goedhartplein",
+    "latitude": 52.0833,
+    "longitude": 5.1167
+  },
+  {
+    "id": 213,
+    "name": "Basic-Fit Valkenswaard Handwerkstraat",
+    "latitude": 51.35,
+    "longitude": 5.45
+  },
+  {
+    "id": 214,
+    "name": "Basic-Fit Veghel Prins Willem Alexander Sportpark",
+    "latitude": 51.6167,
+    "longitude": 5.55
+  },
+  {
+    "id": 215,
+    "name": "Basic-Fit Vlaardingen Hoogstraat",
+    "latitude": 51.9,
+    "longitude": 4.35
+  },
+  {
+    "id": 216,
+    "name": "Basic-Fit Vlissingen Baskensburgplein",
+    "latitude": 51.45,
+    "longitude": 3.5833
+  },
+  {
+    "id": 217,
+    "name": "Basic-Fit Voorburg Mgr. van Steelaan",
+    "latitude": 52.0667,
+    "longitude": 4.3667
+  },
+  {
+    "id": 218,
+    "name": "Basic-Fit Waalwijk De Gaard",
+    "latitude": 51.6833,
+    "longitude": 5.0667
+  },
+  {
+    "id": 219,
+    "name": "Basic-Fit Waalwijk Eerste Zeine",
+    "latitude": 51.6833,
+    "longitude": 5.0667
+  },
+  {
+    "id": 220,
+    "name": "Basic-Fit Wageningen Stadsbrink",
+    "latitude": 51.9667,
+    "longitude": 5.6667
+  },
+  {
+    "id": 221,
+    "name": "Basic-Fit Winterswijk Europark",
+    "latitude": 51.9667,
+    "longitude": 6.7167
+  },
+  {
+    "id": 222,
+    "name": "Basic-Fit Woerden Botnische Golf",
+    "latitude": 52.0833,
+    "longitude": 4.8833
+  },
+  {
+    "id": 223,
+    "name": "Basic-Fit Woerden van Helvoortlaan",
+    "latitude": 52.0833,
+    "longitude": 4.8833
+  },
+  {
+    "id": 224,
+    "name": "Basic-Fit Zaandam Martin Luther Kingweg",
+    "latitude": 52.4333,
+    "longitude": 4.8333
+  },
+  {
+    "id": 225,
+    "name": "Basic-Fit Zeist Voorheuvel",
+    "latitude": 52.0833,
+    "longitude": 5.2333
+  },
+  {
+    "id": 226,
+    "name": "Basic-Fit Zwijndrecht Ter Steeghe Ring",
+    "latitude": 51.8167,
+    "longitude": 4.6333
+  },
+  {
+    "id": 227,
+    "name": "Basic-Fit Zwolle Middelweg",
+    "latitude": 52.5167,
+    "longitude": 6.0833
+  },
+  {
+    "id": 228,
+    "name": "Basic-Fit Zwolle Stadionplein",
+    "latitude": 52.5167,
+    "longitude": 6.0833
+  },
+  {
+    "id": 229,
+    "name": "Basic-Fit Zwolle Stadshagen",
+    "latitude": 52.5167,
+    "longitude": 6.0833
   }
 ]
